@@ -1,0 +1,12 @@
+F:\ITAcademy\hw_dotnet\hw_04\HW04.Task1\HW04.Task7\bin\Debug\netcoreapp3.1\HW04.Task7.exe
+F:\ITAcademy\hw_dotnet\hw_04\HW04.Task1\HW04.Task7\bin\Debug\netcoreapp3.1\HW04.Task7.deps.json
+F:\ITAcademy\hw_dotnet\hw_04\HW04.Task1\HW04.Task7\bin\Debug\netcoreapp3.1\HW04.Task7.runtimeconfig.json
+F:\ITAcademy\hw_dotnet\hw_04\HW04.Task1\HW04.Task7\bin\Debug\netcoreapp3.1\HW04.Task7.runtimeconfig.dev.json
+F:\ITAcademy\hw_dotnet\hw_04\HW04.Task1\HW04.Task7\bin\Debug\netcoreapp3.1\HW04.Task7.dll
+F:\ITAcademy\hw_dotnet\hw_04\HW04.Task1\HW04.Task7\bin\Debug\netcoreapp3.1\HW04.Task7.pdb
+F:\ITAcademy\hw_dotnet\hw_04\HW04.Task1\HW04.Task7\obj\Debug\netcoreapp3.1\HW04.Task7.AssemblyInfoInputs.cache
+F:\ITAcademy\hw_dotnet\hw_04\HW04.Task1\HW04.Task7\obj\Debug\netcoreapp3.1\HW04.Task7.AssemblyInfo.cs
+F:\ITAcademy\hw_dotnet\hw_04\HW04.Task1\HW04.Task7\obj\Debug\netcoreapp3.1\HW04.Task7.csproj.CoreCompileInputs.cache
+F:\ITAcademy\hw_dotnet\hw_04\HW04.Task1\HW04.Task7\obj\Debug\netcoreapp3.1\HW04.Task7.dll
+F:\ITAcademy\hw_dotnet\hw_04\HW04.Task1\HW04.Task7\obj\Debug\netcoreapp3.1\HW04.Task7.pdb
+F:\ITAcademy\hw_dotnet\hw_04\HW04.Task1\HW04.Task7\obj\Debug\netcoreapp3.1\HW04.Task7.genruntimeconfig.cache
