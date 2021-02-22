@@ -1,0 +1,13 @@
+F:\ITAcademy\hw_dotnet\hw_05\HW.05.Task1\HW.05.Task3\bin\Debug\netcoreapp3.1\HW.05.Task3.exe
+F:\ITAcademy\hw_dotnet\hw_05\HW.05.Task1\HW.05.Task3\bin\Debug\netcoreapp3.1\HW.05.Task3.deps.json
+F:\ITAcademy\hw_dotnet\hw_05\HW.05.Task1\HW.05.Task3\bin\Debug\netcoreapp3.1\HW.05.Task3.runtimeconfig.json
+F:\ITAcademy\hw_dotnet\hw_05\HW.05.Task1\HW.05.Task3\bin\Debug\netcoreapp3.1\HW.05.Task3.runtimeconfig.dev.json
+F:\ITAcademy\hw_dotnet\hw_05\HW.05.Task1\HW.05.Task3\bin\Debug\netcoreapp3.1\HW.05.Task3.dll
+F:\ITAcademy\hw_dotnet\hw_05\HW.05.Task1\HW.05.Task3\bin\Debug\netcoreapp3.1\HW.05.Task3.pdb
+F:\ITAcademy\hw_dotnet\hw_05\HW.05.Task1\HW.05.Task3\obj\Debug\netcoreapp3.1\HW.05.Task3.csprojAssemblyReference.cache
+F:\ITAcademy\hw_dotnet\hw_05\HW.05.Task1\HW.05.Task3\obj\Debug\netcoreapp3.1\HW.05.Task3.AssemblyInfoInputs.cache
+F:\ITAcademy\hw_dotnet\hw_05\HW.05.Task1\HW.05.Task3\obj\Debug\netcoreapp3.1\HW.05.Task3.AssemblyInfo.cs
+F:\ITAcademy\hw_dotnet\hw_05\HW.05.Task1\HW.05.Task3\obj\Debug\netcoreapp3.1\HW.05.Task3.csproj.CoreCompileInputs.cache
+F:\ITAcademy\hw_dotnet\hw_05\HW.05.Task1\HW.05.Task3\obj\Debug\netcoreapp3.1\HW.05.Task3.dll
+F:\ITAcademy\hw_dotnet\hw_05\HW.05.Task1\HW.05.Task3\obj\Debug\netcoreapp3.1\HW.05.Task3.pdb
+F:\ITAcademy\hw_dotnet\hw_05\HW.05.Task1\HW.05.Task3\obj\Debug\netcoreapp3.1\HW.05.Task3.genruntimeconfig.cache
